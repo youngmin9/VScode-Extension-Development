@@ -1,23 +1,20 @@
-# Types Installer Helper
+# VScode-Extension-Development
 
-Helps you install @types modules for your dependencies!
+"IT 종사자를 위한 스트레스 및 번아웃 관리 확장 프로그램(Extensions), 
+메니저(mén_ager)"
 
-> [Watch me build this on YouTube!](https://www.youtube.com/watch?v=PGAu06_E_BU)
+IT 산업 종사자들 중 특히, 개발자들은 번아웃이 발생할 확률이 높고 스트레스를 관리하기 힘들다.
+따라서 업무 중에서 자주 사용하는 도구들(GitHub, Chrome, Visual Studio, Adobe, etc.) 
+확장 프로그램(Extension)을 제공해서 스트레스 관리 및 번아웃을 방지할 수 있게 도와주려고 한다.
 
-## Features
 
-### Problems (aka squiggles aka diagnstics)
+![image](https://github.com/youngmin9/VScode-Extension-Development/assets/93260170/392c70ae-cc91-4456-83f5-5b86dad01752)
 
-![squiggles](https://user-images.githubusercontent.com/2644648/123849220-63d91b00-d8cd-11eb-8bcc-b82156c7c620.png)
+UI 구성 component score
+본인의 상태(번아웃 점수)
+일일 업무 목표(달성 점수)
 
-with descriptions:
+기존 설문조사 링크
+https://i6zvqipg2sh.typeform.com/to/A6K33zQG
 
-![with descriptions](https://user-images.githubusercontent.com/2644648/123849297-7c493580-d8cd-11eb-8c20-80f0bfd3d1b9.png)
 
-### Code Actions (aka quick fixes)
-
-![with code actions](https://user-images.githubusercontent.com/2644648/123849381-96831380-d8cd-11eb-8d5d-8e7fdd896030.png)
-
-That executes a task to install the `@types` module:
-
-![the task to install](https://user-images.githubusercontent.com/2644648/123849495-b74b6900-d8cd-11eb-89f5-b8d874bb3be6.png)
